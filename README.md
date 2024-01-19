@@ -1,1 +1,1 @@
-Metis Network Configuration Files
+Moved to https://github.com/MetisProtocol/metis-networks
