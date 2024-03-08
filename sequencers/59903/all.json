@@ -28,5 +28,15 @@
     "pubkey": "0x1f62b5a2a5017dc3fc95485c71f5f4325986e5654d19b9e4185d32fff43c529b1f581eb0eadcada3600fc3371044c027f9241336706ae4bb80eb1a8e97bf4a9c",
     "url": "https://www.metisdevops.link",
     "media": ""
+  },
+  {
+    "name": "Genesis3",
+    "avatar": "{BASEDIR}/assets/Genesis3.svg",
+    "desc": "Metis is soon to launch a Decentralized Sequencer to achieve full decentralization in Layer 2 networks and avoid single-point failures derived from centralized Sequencers.",
+    "address": "0x0167f5DA5b360F861a31d05E9700D0D07d0439D7",
+    "seq_addr": "0x7117c7F5848753e05F801dB4e70FE286223192C1",
+    "pubkey": "0xb2c488732dd4fa78ab09f29eed16324607c925346734cebec2f52cfca95277ffed2bbf5cb605cd062a55ab7f84ae1bfe001ef958ff7f49afc4ef33f9ce2635a8",
+    "url": "https://www.metisdevops.link",
+    "media": ""
   }
 ]
